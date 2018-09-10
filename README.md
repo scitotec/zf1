@@ -1,7 +1,7 @@
 # INFORMATION
 ===================
 
-This is a fork from [Magentos Zend Framework 1.12.16 Fork](https://github.com/magento/zf1). 
+This is a fork from [Magento's Zend Framework 1.12.16 Fork](https://github.com/magento/zf1). 
 
 It includes their fixes and brings some libraries back that they didn't need.
 
