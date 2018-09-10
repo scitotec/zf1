@@ -1,6 +1,6 @@
 {
-    "name": "magento/zendframework1",
-    "description": "Magento Zend Framework 1",
+    "name": "scitotec/zendframework1",
+    "description": "Scitotecs Magento Zend Framework 1",
     "type": "library",
     "keywords": [
         "framework",
