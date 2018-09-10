@@ -52,6 +52,8 @@ require_once 'Zend/Measure/AllTests.php';
 require_once 'Zend/Memory/AllTests.php';
 require_once 'Zend/MimeTest.php';
 require_once 'Zend/Mime/AllTests.php';
+require_once 'Zend/NavigationTest.php';
+require_once 'Zend/Navigation/AllTests.php';
 require_once 'Zend/Oauth/AllTests.php';
 require_once 'Zend/PdfTest.php';
 require_once 'Zend/Pdf/AllTests.php';
