@@ -29,6 +29,7 @@ a4db4c53e8ad4a0be166fe0fa6bcbb744a06c9e4 Zend_Captcha
 f9d24500c3fd1ccc5d32ffaa0d95aca3c73dd899 Zend_Controller
 
 e7c6a5af511bae49872f475fad33717e6ee59147 Zend_Application and many more
+3cb35f044cc898ad04ea284be9607915f0559ad3 Zend_Auth (bad commit msg)
 ```
 
 # LICENSE
