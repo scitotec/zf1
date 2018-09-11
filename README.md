@@ -17,6 +17,7 @@ af8d6febdbd881fa8ab0f62a4c4ff3a735858872 Zend_Dojo
 a4db4c53e8ad4a0be166fe0fa6bcbb744a06c9e4 Zend_Captcha
 65e7b35bb8234b96c5db9b6fa23a817e06886e83 Zend_Service
 1267e7efac76ed67e1571149f4b864f6ccf2b9c2 Zend_Version
+75819c7f93a2cb52f2f74cc1ebbf5ed6a0141e80 Zend_Feed
 ```
 
 **These got restored:**
